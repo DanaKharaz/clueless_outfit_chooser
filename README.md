@@ -1,2 +1,2 @@
 # clueless_outfit_chooser
-Android application (in progress)
+A digital wardrobe application inspired by the 1995 film _Clueless_. The app would store photos and descriptions of the user's clothing, be able to generate cohesive outfits (based on colors, garment shapes, materials, weather, styles, etc.), and create a visualization of the final outfit for the user. Additionally, the app would make suggestions for the manually chosen outfits and potential shopping suggestions (for example, for pieces that would go with a lot of the user's existing garments and styles) or donation suggestions (for garments that the user does not often wear).
